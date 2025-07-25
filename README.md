@@ -11,12 +11,7 @@ This project leverages Formula 1 telemetry data to analyze driver performance an
 - Analyzes driver codes, teams, and key performance metrics
 
 
-## 📦 Project Structure ***
-📁 f1-telemetry-predictor/
-
-├── SmartF1Analysis.ipynb          # Main Jupyter Notebook
-├── F1Project_Final_Report.pdf     #Report on the project\
-└── README.md                      # Project overview ***
+<pre><code>## 📦 Project Structure ``` f1-telemetry-predictor/ ├── SmartF1Analysis.ipynb # Main Jupyter Notebook ├── F1Project_Final_Report.pdf # Report on the project └── README.md # Project overview ``` </code></pre>                     # Project overview ***
 
 ## 🛠️ Getting Started
 
